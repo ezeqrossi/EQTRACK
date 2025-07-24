@@ -1,1 +1,1 @@
-# EQTRACK
+# EQTrack - Proyecto Supabase y Vercel
